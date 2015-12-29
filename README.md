@@ -4,8 +4,7 @@
 
 1. git clone https://github.com/pantasio/bhelp.git
 2. cd bashmarks
-3. make install >> chang to bash script
-4. source **~/.local/bin/bashmarks.sh** from within your **~.bash\_profile** or **~/.bashrc** file
+3. chmod +x installme && ./installme
 
 ## Shell Commands
 
