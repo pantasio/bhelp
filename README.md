@@ -2,9 +2,9 @@
 ### Use for Linux mint 17.x / Ubuntu 14.x
 ## Install
 
-1. git clone git://github.com/huyng/bashmarks.git
+1. git clone https://github.com/pantasio/bhelp.git
 2. cd bashmarks
-3. make install
+3. make install >> chang to bash script
 4. source **~/.local/bin/bashmarks.sh** from within your **~.bash\_profile** or **~/.bashrc** file
 
 ## Shell Commands
