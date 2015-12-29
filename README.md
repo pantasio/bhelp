@@ -1,5 +1,5 @@
 ### Bashmarks is a shell script that allows you to save and jump to commonly used directories. Now supports tab completion.
-### Use for Linux mint 17.x / Ubuntu 14.x  
+### Use for Linux mint 17.x / Ubuntu 14.x
 ## Install
 
 1. git clone git://github.com/huyng/bashmarks.git
